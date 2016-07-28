@@ -1,4 +1,7 @@
 <?php
+function wasteTime() {
+    return "I want my dinner.";
+}
 
 function getSupplierCount()
 {
